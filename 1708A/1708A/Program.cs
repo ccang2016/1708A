@@ -11,6 +11,12 @@ namespace _1708A
         static void Main(string[] args)
         {
             Console.WriteLine("1708A 代码库");
+
+             Console.WriteLine("1708A 代码库1");
+             Console.WriteLine("1708A 代码库2");
+             Console.WriteLine("1708A 代码库3");
+
+
         }
     }
 }
